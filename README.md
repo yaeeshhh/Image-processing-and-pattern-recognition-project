@@ -83,30 +83,17 @@ A hybrid deep learning approach combining:
 ## 🗂️ Repository Structure
 
 ```
-├── hybrid_cnn_svm/          # Yaeesh & Qian — ResNet50 + SVM approach
-│   ├── main.py              # Main training and evaluation script
-│   ├── preprocessing.py     # Data augmentation and preprocessing pipeline
-│   ├── model.py             # ResNet50 feature extractor + SVM classifier
-│   ├── evaluate.py          # Metrics, TTA inference, stress testing
-│   └── requirements.txt
-│
-├── transfer_learning_yolo/  # Anush & Minseok — YOLO11n transfer learning
+road-sign-classification-ippr/
+├── README.md
+├── hybrid_cnn_svm/
 │   ├── main.py
-│   ├── utils.py
-│   ├── data.yaml
-│   ├── sign.yaml
 │   └── requirements.txt
-│
-├── hog_lbp_svm/             # Fabiha & Jayden — Classical HOG/LBP + SVM
+├── transfer_learning_yolo/
 │   ├── main.py
-│   ├── feature_extraction.py
 │   └── requirements.txt
-│
-├── datasets/                # Dataset download links and setup instructions
-│   └── DATASETS.md
-│
-└── report/
-    └── Assessment_Task_2_Project_Implementation.pdf
+└── hog_lbp_svm/
+│   ├── main.py
+│   └── requirements.txt
 ```
 
 ---
