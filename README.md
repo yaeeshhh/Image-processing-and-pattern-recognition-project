@@ -1,4 +1,4 @@
-# 🚦 Road Sign Classification — Image Processing & Pattern Recognition
+# 🚦 Traffic Sign Classification — Image Processing & Pattern Recognition
 
 > **UTS 31256 Image Processing and Pattern Recognition** | Spring 2025  
 > Team 41 — Assessment Task 2: Project Implementation
